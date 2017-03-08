@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - ruby-head
+deploy:
+  provider: heroku
+  app: floating-gorge-32148
+  api_key:
