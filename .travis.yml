@@ -1,7 +1,8 @@
 language: ruby
 rvm:
-  - ruby-head
+- ruby-head
 deploy:
   provider: heroku
   app: floating-gorge-32148
   api_key:
+    secure: bFwWvtG0+oKv07zLJf3z4KpOsBjKlGvXfQr6eeStN9TSEOD52TQAPTmMRhdXC18v+VaLEnFUUNTjCAtbG0ckx8/ybPwcm8AQ13WMLEJQnYplsumchVS/6DRymUzoB3H6EQfB1upFBQPQu/vk9tKLCl5/UIRnu2nf/N3GfnztWjqiyg4PlxF6BOg/LVrmX3Zbnr4fo6XyjJIczTk1I4khummb4WOYTpVGvZi7bYMRbCTTS5SlXvT6t0Kexk7navk1km8RVgXDrzWZxHsREZ9WPNrhUfjDM86mTjQ0R5qdHYI29+YQ5CduTXeWyiWE+XD40MaB387MnLZ7vzZMFFNsST5KWOSTFsv/3r0W5oGsH4Hj/oW6Plfn8EBQlcUt/w0dD1FGXWW6N3LHozv0arrtTB1WqZ0s6yd4+wyUQmH3dGCwIk0Ypq5oC37+0KlS5kNPP9/gc6kdg6PuajPAVUjQ8yuO6MwPR/34nBQZqNh93Z27cQr8JHdsRp2cienzJl24ud7bQ8b0rSF8eU+nni5z+OycUAcrDTqYnVCvcWSi+xg4Q189Ez3y9+WvTI0Kj+lsPupXzimaP6/2ojq/LU1rumwT6PJkr0ic1KvfVvNy70lyS1iBRZ1jbcSnZx/ZgLIC1djy34wxzMEbx2NhoqnWYPSkpjtEhAAJuPUQXY7Wh5c=
